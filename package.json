@@ -1,0 +1,31 @@
+{
+  "name": "sprite-frame",
+  "version": "1.0.0",
+  "description": "css sprite image frame by frame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaySnow/sprite-frame.git"
+  },
+  "keywords": [
+    "css",
+    "sprite",
+    "animation",
+    "frame by frame"
+  ],
+  "author": "mayxiaoyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaySnow/sprite-frame/issues"
+  },
+  "homepage": "https://github.com/MaySnow/sprite-frame#readme",
+  "dependencies": {
+    "absurd": "^0.3.9",
+    "create-html": "^4.1.0",
+    "spritesmith": "^3.4.0"
+  }
+}
